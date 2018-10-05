@@ -1,0 +1,24 @@
+p
+{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color:black;
+    color:green;
+
+}
+
+img{
+    height:auto;
+    width:100%;
+   }
+
+
+.table th, td{
+    border-style: none;
+}
