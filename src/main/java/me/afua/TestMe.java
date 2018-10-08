@@ -7,9 +7,9 @@ import java.util.Scanner;
 public class TestMe {
     public static void main(String[] args) {
 //      Simple - without a loop
-        String[] wordlist = {"Tree","Rain","Bear","Encourage","Promise","Soup","Chess","Insurance","Pancakes","Stream"};
+        String[] wordList = {"Tree","Rain","Bear","Encourage","Promise","Soup","Chess","Insurance","Pancakes","Stream"};
         Scanner sc = new Scanner(System.in);
-        String referenceWord = wordlist[new Random().nextInt(wordlist.length)];
+        String referenceWord = wordList[new Random().nextInt(wordList.length)];
         String[] word = referenceWord.split("");
         String asterisks = "";
 
