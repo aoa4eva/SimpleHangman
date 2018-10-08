@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca3f312-590d-45e2-b981-095dee7dd98c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/afua/WithStringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/afua/TestMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/afua/TestMe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/afua/WithStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/afua/WithStringBuilder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="WithStringBuilder.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/afua/WithStringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+            <state relative-caret-position="426">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -261,12 +259,12 @@
       <option name="presentableId" value="Default" />
       <updated>1538777363375</updated>
       <workItem from="1538777365274" duration="2566000" />
-      <workItem from="1538780447576" duration="3489000" />
+      <workItem from="1538780447576" duration="4272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6055000" />
+    <option name="totallyTimeSpent" value="6838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
@@ -282,7 +280,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39905548" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3293979" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -290,7 +288,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27036598" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37190083" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293979" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25291297" />
@@ -312,6 +310,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/me/afua/TestMe.java">
@@ -350,8 +353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/afua/WithStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+        <state relative-caret-position="426">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

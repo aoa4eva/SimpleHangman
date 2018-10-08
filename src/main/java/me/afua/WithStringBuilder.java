@@ -38,7 +38,7 @@ public class WithStringBuilder {
                 System.out.println("Enter a letter you think is in the word");
 
                 //      Display the selected word for testing
-                System.out.println("The selected word:" + theWord);
+                //      System.out.println("The selected word:" + theWord);
 
 
                 //      Get the user input and make sure it contains only the letter entered
@@ -76,14 +76,11 @@ public class WithStringBuilder {
                 System.out.println("Congratulations! You guessed the word!! ");
             }
 
-
                 //     Prompt the user to try with another word
                 System.out.println("Would you like to try again?");
                 tryAgain = userInput.nextLine().equalsIgnoreCase("y");
                 if(!tryAgain)
                     System.out.println("Thank you for playing!");
-
-
 
         }while(tryAgain);
 
